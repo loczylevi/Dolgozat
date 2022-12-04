@@ -1,6 +1,6 @@
 # Dolgozat
 
-<img src="kesz_feladat_kinezete.png">
+<img src="kesz_feladat_kinezete_.png">
 
 # Igy kell kinéznie a weboldalnak
 
