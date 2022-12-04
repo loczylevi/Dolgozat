@@ -6,27 +6,27 @@
 
 Feladatok:
 
-A weboldal nyelve magyar (hu) legyen!
+1. A a weboldal kódolása UTF-8 -as legyen továbbá weboldal nyelve magyar (hu) legyen!
 
-A kis fülecske (baloldalt legfelül) neve Dolgozat legyen!
+2. A kis fülecske (baloldalt legfelül) neve Dolgozat legyen!
 
-A "Palacsinta Receptje" legyen fehér szinű, középre helyezve és 1. cimsorba rakva!
+3. A "Palacsinta Receptje" legyen fehér szinű, középre helyezve és 1. cimsorba rakva!
 
-Illeszen be 3 sortörést a 1. cimsor után!
+4. Illeszen be 3 sortörést a 1. cimsor után!
 
-A "hozzávalók" és az "elkészítés" szöveg legyen fehér és 40px nagyságú!
+5. A "hozzávalók" és az "elkészítés" szöveg legyen fehér és 40px nagyságú!
 
-A háttér legyen szürke!
+6. A háttér legyen szürke!
 
-A lista elemek felsorolása legyen fehér szinű és 20px-es!
+7. A lista elemek felsorolása legyen fehér szinű és 20px-es!
 
-A kép legyen úgy lekódolva, hogy ha rávisszük az egeret kiírja, hogy palacsinta!
-Továbbá legyen 20px -sen lekerekitve!
-A kèp magassága legyen 250px magas és 450 px széles!
-Továbbá a kép legyen jobb oldalra tolva!
-A kèp alternatív szövege palacsinta legyen! (Ha nem jelenik meg a kèp akkor az alt legyen "palacsinta 🥞")
+8/A. A kép legyen úgy lekódolva, hogy ha rávisszük az egeret kiírja, hogy palacsinta!
+8/B. Továbbá legyen 20px -sen lekerekitve!
+8/C. A kèp magassága legyen 250px magas és 450 px széles!
+8/D. Továbbá a kép legyen jobb oldalra tolva!
+8/E. A kèp alternatív szövege palacsinta legyen! (Ha nem jelenik meg a kèp akkor az alt legyen "palacsinta 🥞")
 
-A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités felsorolásai pedig számozottak legyenek!
+9. A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités felsorolásai pedig számozottak legyenek!
 
 # A dolgozatra 30 perc áll rendelkezésre kizárólag vscode-ot ès a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
 
