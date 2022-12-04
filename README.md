@@ -2,7 +2,7 @@
 
 <img src="kesz_feladat_kinezete_.png">
 
-# Így kell kinéznie a weboldalnak ahogy a kesz_feladat_kinezete_.png -ben lehet látni.
+# Így kell kinéznie a kèsz weboldalnak ahogy a kesz_feladat_kinezete_.png -ben lehet látni.
 
 Feladatok:
 
@@ -28,7 +28,7 @@ A kèp alternatív szövege palacsinta legyen! (Ha nem jelenik meg a kèp akkor 
 
 A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités felsorolásai pedig számozottak legyenek!
 
-# A dolgozatra 30 perc áll rendelkezésre kizárólag a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
+# A dolgozatra 30 perc áll rendelkezésre kizárólag vscode-ot ès a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
 
 # A kèsz munkákat mindenki töltse fel egy github repositoryiba saját nevèvel ellátva!
 
