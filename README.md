@@ -25,6 +25,8 @@ Továbbá legyen 20px -sen lekerekitve!
 A káp magassága legyen 250px magas és 450 px széles!
 Továbbá a kép legyen jobb oldalra tolva!
 
+A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités felsorolásai pedig számozottak legyenek!
+
 # Jo munkát kivánok!
 
 # A dolgozatra 30 perc áll rendelkezésre kizárólag a w3school oldalát lehet használni! Bármilyen más weboldal használata esetén jegy levonás történik!
