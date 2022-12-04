@@ -30,5 +30,7 @@ A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités 
 
 # A dolgozatra 30 perc áll rendelkezésre kizárólag a w3school oldalát lehet használni! Bármilyen más weboldal, vagy kommunikációs platform használata esetén jegy levonás történik!
 
+# A kèsz munkákat mindenki töltse fel egy github repositoryiba saját nevèvel ellátva!
+
 # jó munkát kivánok! 
 
