@@ -21,9 +21,13 @@ Feladatok:
 7. A lista elemek felsorolása legyen fehér szinű és 20px-es!
 
 8/A. A kép legyen úgy lekódolva, hogy ha rávisszük az egeret kiírja, hogy palacsinta!
+
 8/B. Továbbá legyen 20px -sen lekerekitve!
+
 8/C. A kèp magassága legyen 250px magas és 450 px széles!
+
 8/D. Továbbá a kép legyen jobb oldalra tolva!
+
 8/E. A kèp alternatív szövege palacsinta legyen! (Ha nem jelenik meg a kèp akkor az alt legyen "palacsinta 🥞")
 
 9. A hozzávalok felsorolásai számozatlan felsorolások legyenek az elkészités felsorolásai pedig számozottak legyenek!
