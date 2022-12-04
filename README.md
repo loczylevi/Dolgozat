@@ -2,7 +2,7 @@
 
 <img src="kesz_feladat_kinezete.png">
 
-Igy kell kinéznie a weboldalnak
+# Igy kell kinéznie a weboldalnak
 
 Feladatok:
 
@@ -27,7 +27,7 @@ Továbbá a kép legyen jobb oldalra tolva!
 
 # Jo munkát kivánok!
 
-# A dolgozatra 45 perc áll rendelkezésre kizárólag a w3school oldalát lehet használni! Bármilyen más weboldal használata esetén jegy levonás történik!
+# A dolgozatra 30 perc áll rendelkezésre kizárólag a w3school oldalát lehet használni! Bármilyen más weboldal használata esetén jegy levonás történik!
 
 
 
