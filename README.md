@@ -20,7 +20,7 @@ Feladatok:
 
 7. A lista elemek felsorolása legyen fehér szinű és 20px-es!
 
-8/A. A kép legyen úgy lekódolva, hogy ha rávisszük az egeret kiírja, hogy palacsinta!
+8/A. A kép legyen úgy lekódolva, hogy ha a kèpre rávisszük az egeret kiírja, hogy palacsinta!
 
 8/B. Továbbá legyen 20px -sen lekerekitve!
 
